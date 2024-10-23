@@ -37,6 +37,8 @@ public class sis_emp {
     public static void main(String[] args) {
         int opcion;
         do {
+
+        //Creo unos mensajes de pantalla
             System.out.println("\n---- Sistema de Gestión de Empleados ----");
             System.out.println("1. Añadir empleado");
             System.out.println("2. Mostrar lista de empleados");
